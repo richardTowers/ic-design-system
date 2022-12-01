@@ -2,7 +2,7 @@
 name: "\U0001F41B Report a bug"
 about: Tell us about a problem with the UI Kit or Design System website.
 title: ''
-labels: ''
+labels: bug
 assignees: ''
 
 ---
@@ -26,13 +26,17 @@ If you can, add screenshots to show the problem. If you need to show a code exam
 ## 🖥 Desktop
  - OS: [e.g. macOS]
  - Browser: [e.g. chrome, safari]
- - Version: [e.g. 22]
+ - Browser Version: [e.g. 22]
+- Website Version [eg. V1, V2]
+(As displayed on the site top navigation)
 
 ## 📱 Mobile
  - Device: [e.g. iPhone13]
  - OS: [e.g. iOS8.1]
  - Browser: [e.g. chrome, safari]
- - Version: [e.g. 22]
+ - Browser Version: [e.g. 22]
+- Website Version [eg. V1, V2] 
+(As displayed on the site top navigation)
 
 ## Additional info
 Tell us anything else useful to help us fix or understand the problem.
